@@ -38,4 +38,4 @@ Adding ASCII typing is as easy as including the file and using the type function
 
 Where the message is any combination of keys on an English keyboard!
 
-Get Termwriter up and running on your own C++ project in minutes by downloading the [*termwriter.hpp file*](https://github.com/Alex0Blackwell/termwriter/releases)
+Get Termwriter up and running on your own C++ project in minutes by downloading the [*termwriter.hpp file*](https://github.com/Alex0Blackwell/termwriter/releases/download/0.0.1/termwriter.hpp)
